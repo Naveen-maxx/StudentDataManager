@@ -1,0 +1,1 @@
+A simple student data management webpage built using HTML, CSS, and JavaScript. It demonstrates dynamic typing, DOM manipulation, asynchronous Fetch API requests, and displaying fetched data without reloading the page.
